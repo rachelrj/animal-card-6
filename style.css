@@ -9,11 +9,7 @@ img {
 h1, p, img, ul {
 	margin-left: 10px;
 	margin-right: 10px;
-	color: green;
 }
 .italics {
 	font-style: italic;
-}
-p {
-	color: black;
 }
